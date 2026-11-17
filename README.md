@@ -31,6 +31,6 @@ Fokus membangun aplikasi web yang ringan, fungsional, dan langsung menyelesaikan
 
 ### 連絡先 — Connect
 
-- **Portfolio:** [link-portfolio-kamu.com](https://link-portfolio-kamu.com)
-- **LinkedIn:** [linkedin.com/in/username](https://linkedin.com/in/username)
-- **Email:** emailkamu@gmail.com
+- **Portfolio:** [link-portfolio-kamu.com](https://link-portfolio-kamu.com) belum
+- **LinkedIn:** [linkedin.com/in/username](https://linkedin.com/in/username) belum
+- **Email:** muhammadradekaislamsyah1@gmail.com
